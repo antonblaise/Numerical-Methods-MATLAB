@@ -1,0 +1,12 @@
+MATLAB_NM_test2/
+MAT/
+EXE/
+For_use/
+*.exe
+*.mat
+*.log
+*.sfit
+*.zip
+*.rar
+*.txt
+*.prj
